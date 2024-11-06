@@ -84,7 +84,7 @@ button{
     width: 792px;
     height: 325px;
     padding: 16px;
-    margin-top: 23px;
+    margin-top: 63px;
     margin-left: 324px;
     gap: 24px;
     opacity: 0px;
@@ -102,7 +102,6 @@ button{
     letter-spacing: 19%;
     color: #33a8db;
     text-align: center;
-    padding-inline: 10px;
 }
 
 #course-content p{
